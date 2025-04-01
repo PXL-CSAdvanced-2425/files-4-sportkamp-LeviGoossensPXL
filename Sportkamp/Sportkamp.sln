@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sportkamp.WPF", "Sportkamp.WPF\Sportkamp.WPF.csproj", "{453AC719-C9A2-4B82-A1AC-1EEC7E14640E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sportkamp.Shared", "Sportkamp.Shared\Sportkamp.Shared.csproj", "{0195E899-3669-4D99-B034-85F3F7AB411E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{453AC719-C9A2-4B82-A1AC-1EEC7E14640E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453AC719-C9A2-4B82-A1AC-1EEC7E14640E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453AC719-C9A2-4B82-A1AC-1EEC7E14640E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453AC719-C9A2-4B82-A1AC-1EEC7E14640E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0195E899-3669-4D99-B034-85F3F7AB411E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0195E899-3669-4D99-B034-85F3F7AB411E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0195E899-3669-4D99-B034-85F3F7AB411E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0195E899-3669-4D99-B034-85F3F7AB411E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {109D1DEC-127F-4747-92F6-7330FC300DC4}
+	EndGlobalSection
+EndGlobal
